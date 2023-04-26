@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Hartbeat
 {
-    public partial class Form1 : Form
+    public partial class Hartbeat : Form
     {
-        public Form1()
+        public Hartbeat()
         {
             InitializeComponent();
         }
